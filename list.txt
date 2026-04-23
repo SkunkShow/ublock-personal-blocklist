@@ -447,6 +447,7 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post:has([slot="ti
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post:has([slot="title"]:has-text(/passed (yesterday|today)/i))
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post:has([slot="title"]:has-text(/last day with/i))
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/ShittyAbsoluteUnits/"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/fightlab/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/boxingcirclejerk/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/UkraineWarVideoReport/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/CATHELP/"]
