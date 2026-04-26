@@ -478,6 +478,7 @@ x.com##article:has([data-testid="tweetText"]:has-text(/\bICE\b/))
 
 # social
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/invinciblememes"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/okbuddyviltrum"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/Dhurandhar"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/emily_rudd"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/BroadcastingQueens"]
