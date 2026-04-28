@@ -477,6 +477,7 @@ x.com##article:has([data-testid="tweetText"]:has-text(/\bICE\b/))
 # /sad
 
 # social
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/Invincible_TV"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/IndiaBusiness"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/TheDigitalCircus"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/BollyGoodVibes"]
