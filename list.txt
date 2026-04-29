@@ -27,6 +27,9 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/OpenAI/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/singularity/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/StableDiffusion/"]
+! allows ai
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/HistoryMemes/"]
+!
 search.brave.com##.suggestion:has(.ai-generate)
 stackoverflow.com##.nav-links li.ps-relative:has-text(/\bAI\b/i)
 www.amazon.co.uk##.nav-rufus-disco
