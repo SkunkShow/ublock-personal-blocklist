@@ -27,6 +27,7 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/OpenAI/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/singularity/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/StableDiffusion/"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/vibecoding/"]
 ! allows ai
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/HistoryMemes/"]
 !
