@@ -758,6 +758,7 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 # /social
 
 # sports
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/csk"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/Flyers"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/Padres"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/cricmoments"]
