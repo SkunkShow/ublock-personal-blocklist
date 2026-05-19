@@ -482,6 +482,7 @@ x.com##article:has([data-testid="tweetText"]:has-text(/\bICE\b/))
 # /sad
 
 # social
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/Modern_Family"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/gentleLittleMoments"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/NSEbets"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/unfilteredindia"]
