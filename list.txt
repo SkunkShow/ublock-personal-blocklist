@@ -104,6 +104,8 @@ x.com##[data-testid="super-upsell-UpsellCardRenderProperties"]
 ! translated websites
 ecosia.org##[data-test-id="mainline-result-web"]:has([href*="reddit.com"][href*="tl="])
 google.com###rso>div:has([href*="reddit.com"][href*="tl="])
+! annoying commenters
+youtube.com##ytd-comment-thread-renderer:has-text(/@JustinY./i)
 # /annoyances
 
 # finance
