@@ -490,6 +490,7 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/FirstTimeHomeBuyer"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/MayNagComment"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/FaltooGyan"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/atheryn_Winnick_fans"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/AirTravelIndia"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PataHaiAajKyaHua"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/SunrisersHyderabad"]
