@@ -136,6 +136,7 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 # /finance
 
 # games
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/Gameoverse/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/ForzaHorizon/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/CrimsonDesert/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/FortniteLeaks/"]
