@@ -136,6 +136,7 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 # /finance
 
 # games
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/AnimalCrossing/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/Gameoverse/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/ForzaHorizon/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/CrimsonDesert/"]
@@ -779,6 +780,7 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 # /social
 
 # sports
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/kings"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/socceroos"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/Aleague"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/NBASpurs"]
