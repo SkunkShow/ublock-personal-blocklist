@@ -785,6 +785,7 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 # /social
 
 # sports
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/worldcup"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/Scrubs"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/NBAGossips"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/NBAVibes"]
