@@ -492,6 +492,7 @@ x.com##article:has([data-testid="tweetText"]:has-text(/\bICE\b/))
 
 # social
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/IndianCinemaRegional"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/euphoria"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/Real_teenindia"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/Natty"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/StarWars"]
