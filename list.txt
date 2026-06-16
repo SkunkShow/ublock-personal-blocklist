@@ -2,7 +2,7 @@
 ! Expires: 1 day
 ! Description:  
 
-# ai
+# ai slop
 ads.google.com####.icon-ads-guide
 duckduckgo.com##li:has-text(/Search Assist/i)
 duckduckgo.com##a:has-text(/Duck.ai/i)
@@ -28,7 +28,8 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/singularity/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/StableDiffusion/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/vibecoding/"]
-! allows ai
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/stupidpeoplefacebook/"]
+! allows ai slop
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/HistoryMemes/"]
 !
 search.brave.com##.suggestion:has(.ai-generate)
