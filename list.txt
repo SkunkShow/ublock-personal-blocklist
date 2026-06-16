@@ -497,6 +497,7 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/Natty"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/StarWars"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/breakingbad"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/BollywoodHotTakes"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/scuderiaferrari"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/TharCriminals"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/dropout"]
