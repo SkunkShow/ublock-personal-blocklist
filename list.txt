@@ -3,7 +3,7 @@
 ! Description:  
 
 # ai slop
-ads.google.com####.icon-ads-guide
+ads.google.com###.icon-ads-guide
 duckduckgo.com##li:has-text(/Search Assist/i)
 duckduckgo.com##a:has-text(/Duck.ai/i)
 laracasts.com##.forum-comment:has-text(/Posted automagically/i)
