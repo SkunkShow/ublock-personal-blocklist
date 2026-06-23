@@ -208,6 +208,7 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 # /games
 
 # places
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/Norway"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/kolkata"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/jaipur"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/Detroit"]
