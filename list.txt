@@ -796,6 +796,7 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 # /social
 
 # sports
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/chicagobulls"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/MkeBucks"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/timberwolves"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/bostonceltics"]
