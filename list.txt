@@ -53,7 +53,7 @@ x.com##button:has-text(/Profile Summary/i)
 learn.microsoft.com###article-header-page-actions > button:has-text(/Ask Learn/i)
 ! Disclaimed AI generated content
 www.youtube.com##body:has(.ytwHowThisWasMadeSectionViewModelBodyText:has-text(/digitally generated/i)) #video_player
-store.steampowered.com##.page_content_ctn:has(.game_area_description:has-text(/AI Generated Content Disclosure/i)) .leftcol
+store.steampowered.com##.page_content_ctn:has(.game_area_description:has-text(/AI Generated Content Disclosure/i)) .btn_addtocart
 ! experimental - if it has "em dash"
 reddit.com###comment-tree shreddit-comment:not([collapsed]) [id$="-post-rtjson-content"]:has-text(/—/i)
 x.com##article:has([data-testid="tweetText"]:has-text(/—/i))
