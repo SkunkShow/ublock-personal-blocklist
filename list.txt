@@ -799,6 +799,7 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 # /social
 
 # sports
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/LigaMX"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/phillies"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/CanadaSoccer"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/indiansports"]
