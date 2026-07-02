@@ -206,6 +206,9 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/Zenlesszonezeroleaks_/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/ZZZ_Official/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/ZZZ_Romance/"]
+! requires too many steps
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/FreeGameFindings/"]:has-text(/gleam.io/)
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/FreeGamesOnSteam/"]:has-text(/gleam.io/)
 # /games
 
 # places
