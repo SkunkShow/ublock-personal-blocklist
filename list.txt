@@ -451,6 +451,7 @@ x.com##article:has([data-testid="tweetText"]:has-text(/muslim/i))
 # /religion
 
 # sad
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post:has([slot="title"]:has-text(/\bchainsmoker\b/i))
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post:has([slot="title"]:has-text(/\bICE\b/i))
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post:has([slot="title"]:has-text(/\bRIP\b/i))
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post:has([slot="title"]:has-text(/assaults/i))
