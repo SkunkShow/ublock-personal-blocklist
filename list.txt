@@ -506,7 +506,7 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
-reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/stunnerswear"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/GermanRap"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/tja"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/circlejerknyc"]
