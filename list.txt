@@ -502,6 +502,12 @@ x.com##article:has([data-testid="tweetText"]:has-text(/\bICE\b/))
 # social
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/IndianStandUpComedy"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/OliviaRodrigoCircle"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/AllindiaStudentUnion"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/MEDICOreTARDS"]
