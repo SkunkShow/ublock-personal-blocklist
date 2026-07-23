@@ -502,7 +502,7 @@ x.com##article:has([data-testid="tweetText"]:has-text(/\bICE\b/))
 # social
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
-reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/pj_explained"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/RealTeensIndia"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/plforindia"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/20sIndiaReal"]
