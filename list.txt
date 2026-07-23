@@ -831,7 +831,7 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
-reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/WNBAgossips"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/Futebola"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/ThreeLions"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/LigaMX"]
