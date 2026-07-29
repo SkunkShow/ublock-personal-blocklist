@@ -507,7 +507,7 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
-reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/KafkaFPS"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/Indiangirlsontinder"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/pj_explained"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/RealTeensIndia"]
