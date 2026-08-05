@@ -108,6 +108,8 @@ ecosia.org##[data-test-id="mainline-result-web"]:has([href*="reddit.com"][href*=
 google.com###rso>div:has([href*="reddit.com"][href*="tl="])
 ! annoying commenters
 youtube.com##ytd-comment-thread-renderer:has-text(/@JustinY./i)
+! always talking about AI slop coding and models
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/ProgrammerHumor"]
 # /annoyances
 
 # finance
