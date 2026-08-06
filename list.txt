@@ -491,6 +491,7 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/seniordogs/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/seniorkitties/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/Wellthatsucks/"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/MMALabs/"]
 x.com##article:has([data-testid="tweetText"]:has-text(/airstrikes?/i))
 x.com##article:has([data-testid="tweetText"]:has-text(/asian people/i))
 x.com##article:has([data-testid="tweetText"]:has-text(/black people/i))
