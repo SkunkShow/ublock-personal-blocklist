@@ -510,7 +510,7 @@ x.com##article:has([data-testid="tweetText"]:has-text(/\bICE\b/))
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
-reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/Sadiesink"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/IndianAcademia"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/Coconaad"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/KafkaFPS"]
