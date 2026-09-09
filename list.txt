@@ -90,9 +90,9 @@ www.reddit.com##shreddit-app:not([pagetype="community"]) .w-full.masthead
 ! reddit - games drawer
 www.reddit.com##[noun="games_drawer"]
 ! reddit - recommendations
-www.reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post:has(p:has-text(/Suggested( for you)?/))
-www.reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post:has(p:has-text(/Based on your recent activity/))
-www.reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post:has(p:has-text(/Because you\'ve shown interest in a similar post/))
+www.reddit.com##shreddit-post:has(p:has-text(/Suggested( for you)?/))
+www.reddit.com##shreddit-post:has(p:has-text(/Based on your recent activity/))
+www.reddit.com##shreddit-post:has(p:has-text(/Because you\'ve shown interest in a similar post/))
 ! youtube - members only
 www.youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer.style-scope:has-text(/Members only/i)
 ! youtube - livestreams
