@@ -60,6 +60,9 @@ x.com##article:has([data-testid="tweetText"]:has-text(/—/i))
 store.steampowered.com##.review_box:has-text(/—/i)
 ! grok
 x.com##[data-testid="cellInnerDiv"]:has-text(/@grok/i)
+! metaai
+web.whatsapp.com##[aria-label="Meta AI"]
+web.whatsapp.com##[data-testid="intro-panel-empty-state-action-tile-group"]>div:has([id*="MetaAi"])
 # /ai
 
 # annoyances
