@@ -19,6 +19,7 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post:has([slot="ti
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r//FacebookAIslop/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/AIArtwork/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/aivideo/"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/aislop/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/CharacterAI/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/ChatGPT/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/CursedAI/"]
