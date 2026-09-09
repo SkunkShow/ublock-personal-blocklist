@@ -92,7 +92,7 @@ www.reddit.com##[noun="games_drawer"]
 ! reddit - recommendations
 www.reddit.com##shreddit-post:has(p:has-text(/Suggested( for you)?/))
 www.reddit.com##shreddit-post:has(p:has-text(/Based on your recent activity/))
-www.reddit.com##shreddit-post:has(p:has-text(/Because you\'ve shown interest in a similar (post|community)/))
+www.reddit.com##shreddit-post:has(p:has-text(/Because you\'ve shown interest in (this|a similar) (post|community)/))
 www.reddit.com##shreddit-post:has(p:has-text(/Because you\'ve visited this community before/))
 ! youtube - members only
 www.youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer.style-scope:has-text(/Members only/i)
