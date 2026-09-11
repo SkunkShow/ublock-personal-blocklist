@@ -518,6 +518,13 @@ x.com##article:has([data-testid="tweetText"]:has-text(/\bICE\b/))
 # social
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/opiniaopopular"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/eu_nvr"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/FanShakira"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/GadgetsIndia"]
