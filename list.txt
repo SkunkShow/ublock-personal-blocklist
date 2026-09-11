@@ -95,7 +95,7 @@ www.reddit.com##shreddit-post:has(p:has-text(/Based on your recent activity/))
 www.reddit.com##shreddit-post:has(p:has-text(/Because you\'ve shown interest in (this|a similar) (post|community)/))
 www.reddit.com##shreddit-post:has(p:has-text(/Because you\'ve visited this community before/))
 www.reddit.com##shreddit-post:has(p:has-text(/Because you\'ve played this game recently/))
-www.reddit.com##shreddit-post:has(p:has-text(/Popular with redittors who like/))
+www.reddit.com##shreddit-post:has(p:has-text(/Popular with redditors who like/))
 ! youtube - members only
 www.youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer.style-scope:has-text(/Members only/i)
 ! youtube - livestreams
