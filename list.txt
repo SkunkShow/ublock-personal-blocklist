@@ -864,7 +864,7 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
-reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/NFLForum"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/messi"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/WNBAVibes"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/WNBAgossips"]
