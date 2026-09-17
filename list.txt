@@ -16,6 +16,7 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post:has([slot="ti
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post:has([slot="title"]:has-text(/ChatGPT/i))
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post:has([slot="title"]:has-text(/Genie 3/i))
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post:has([slot="title"]:has-text(/OpenAI/i))
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post:has([slot="title"]:has-text(/DLSS 5/i))
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r//FacebookAIslop/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/AIArtwork/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/aivideo/"]
