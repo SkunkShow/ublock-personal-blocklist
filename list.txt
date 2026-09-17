@@ -125,6 +125,7 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 # /annoyances
 
 # finance
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/WallstreetWhales"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/InBitcoinWeTrust"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/10xPennyStocks"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/Bitcoin"]
