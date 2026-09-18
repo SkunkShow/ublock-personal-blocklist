@@ -866,7 +866,7 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 # sports
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
-reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/SoccerCentral"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/NFLForum"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/messi"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/WNBAVibes"]
