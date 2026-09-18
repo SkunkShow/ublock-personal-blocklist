@@ -523,7 +523,7 @@ x.com##article:has([data-testid="tweetText"]:has-text(/\bICE\b/))
 # social
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
-reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/manhwa"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/LinkedInLunatics"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/BrieLarson"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/perguntas"]
