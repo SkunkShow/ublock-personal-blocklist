@@ -526,7 +526,7 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
-reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/perguntas"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/IndiaNostalgia"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/bangtan"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/opiniaopopular"]
