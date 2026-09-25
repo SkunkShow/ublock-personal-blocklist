@@ -874,7 +874,7 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
-reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/IndianFootball"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/nflmemeswar"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/fantasyfootball"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/SoccerCentral"]
