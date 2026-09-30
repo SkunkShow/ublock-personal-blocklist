@@ -156,7 +156,7 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PAST_SUBREDDIT_HERE/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PAST_SUBREDDIT_HERE/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PAST_SUBREDDIT_HERE/"]
-reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PAST_SUBREDDIT_HERE/"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/witcher/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/valheim/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/footballmanagergames/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/Palworld/"]
