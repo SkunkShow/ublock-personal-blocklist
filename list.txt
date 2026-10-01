@@ -31,6 +31,7 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/StableDiffusion/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/vibecoding/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/stupidpeoplefacebook/"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/nostalgiai/"]
 ! allows ai slop
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/HistoryMemes/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/FacebookAIslop/"]
