@@ -1039,3 +1039,8 @@ x.com##article:has([data-testid="User-Name"]:has-text(/Badminton/i))
 x.com##article:has([data-testid="tweetText"]:has-text(/\bSuper Bowl\b/i))
 x.com##article:has([data-testid="tweetText"]:has-text(/\bman united\b/i))
 # /sports
+
+# tweaks
+! remove like counter
+music.youtube.com##like-button-view-model .ytSpecButtonShapeNextButtonTextContent
+# /tweaks
