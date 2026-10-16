@@ -535,7 +535,7 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
-reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/celebportrait"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/KateUptonCircle"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/India_Bharat_"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/InfluencerLounge"]
