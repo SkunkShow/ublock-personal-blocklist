@@ -236,6 +236,12 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/FreeGameFindings/"]:has-text(/givee.club/)
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/FreeGamesOnSteam/"]:has-text(/givee.club/)
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/FreeGameFindings/"]:has-text(/givee.club/)
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/FreeGameFindings/"]:has-text(/alienwarearena.com/)
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/FreeGamesOnSteam/"]:has-text(/alienwarearena.com/)
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/FreeGameFindings/"]:has-text(/alienwarearena.com/)
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/FreeGameFindings/"]:has-text(/medal.tv/)
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/FreeGamesOnSteam/"]:has-text(/medal.tv/)
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/FreeGameFindings/"]:has-text(/medal.tv/)
 # /games
 
 # places
