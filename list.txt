@@ -33,6 +33,7 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/vibecoding/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/stupidpeoplefacebook/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/nostalgiai/"]
+aliexpress.com####.pdp-info-right>div:has-text(/\b(IA|AI)\b/)
 ! allows ai slop
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/HistoryMemes/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/FacebookAIslop/"]
