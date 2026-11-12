@@ -153,6 +153,7 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/WallStreetbetsELITE/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/wallstreetbetsGER"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/XGramatikInsights/"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/NvidiaStock/"]
 # /finance
 
 # games
