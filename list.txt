@@ -901,6 +901,7 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 
 # spoilers
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post:has([slot="title"]:has-text(/\bGTA (VI|6)\b/i))
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post:has([slot="title"]:has-text(/\bRockstar\b/i))
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/GTA6"]
 # /spoilers
 
