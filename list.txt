@@ -545,7 +545,7 @@ x.com##article:has([data-testid="tweetText"]:has-text(/\bICE\b/))
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
-reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/ps5india"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/AnneHathaway"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/Florence_Pugh"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/bollywoodgossips"]
