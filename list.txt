@@ -37,6 +37,7 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 aliexpress.com####.pdp-info-right>div:has-text(/\b(IA|AI)\b/)
 www.youtube.com##ytd-rich-item-renderer:has-text(/\bAI\b/i)
 www.youtube.com##ytd-rich-item-renderer:has-text(/\bChatGPT\b/i)
+www.youtube.com##ytd-rich-item-renderer:has-text(/\bAnthropic\b/i)
 www.youtube.com##ytd-rich-item-renderer:has-text(/\bClaude (Code)\b/i)
 ! allows ai slop
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/HistoryMemes/"]
