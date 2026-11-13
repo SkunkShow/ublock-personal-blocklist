@@ -906,6 +906,7 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post:has([slot="ti
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/GTA6"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/GTA"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/playstation"]
+www.youtube.com###ytd-rich-item-renderer:has(h3[title*="GTA VI"])
 # /spoilers
 
 # sports
