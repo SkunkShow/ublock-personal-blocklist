@@ -34,6 +34,7 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/stupidpeoplefacebook/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/nostalgiai/"]
 aliexpress.com####.pdp-info-right>div:has-text(/\b(IA|AI)\b/)
+www.youtube.com##ytd-rich-item-renderer:has-text(/\bChatGPT\b/i)
 ! allows ai slop
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/HistoryMemes/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/FacebookAIslop/"]
@@ -906,8 +907,7 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post:has([slot="ti
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/GTA6"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/GTA"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/playstation"]
-www.youtube.com##ytd-rich-item-renderer:has(h3[title*="GTA VI"])
-www.youtube.com##ytd-rich-item-renderer:has(h3[title*="GTA 6"])
+www.youtube.com##ytd-rich-item-renderer:has-text(/\bGTA (VI|6)\b/i)
 # /spoilers
 
 # sports
