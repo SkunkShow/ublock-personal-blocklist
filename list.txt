@@ -166,6 +166,9 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 # games
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PAST_SUBREDDIT_HERE/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PAST_SUBREDDIT_HERE/"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PAST_SUBREDDIT_HERE/"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PAST_SUBREDDIT_HERE/"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PedroPeepos/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/Warframe/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/classicwow/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/wow/"]
