@@ -23,6 +23,7 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/AIArtwork/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/ClaudeCode/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/aivideo/"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/opencode/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/aislop/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/CharacterAI/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/ChatGPT/"]
