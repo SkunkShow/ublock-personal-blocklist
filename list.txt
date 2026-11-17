@@ -165,6 +165,10 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 # games
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PAST_SUBREDDIT_HERE/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PAST_SUBREDDIT_HERE/"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PAST_SUBREDDIT_HERE/"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PAST_SUBREDDIT_HERE/"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PAST_SUBREDDIT_HERE/"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/wowforever/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/DeadlockTheGame/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/witcher/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/valheim/"]
