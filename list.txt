@@ -166,7 +166,7 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 # games
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PAST_SUBREDDIT_HERE/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PAST_SUBREDDIT_HERE/"]
-reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PAST_SUBREDDIT_HERE/"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/pathofexile/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/limbuscompany/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PedroPeepos/"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/Warframe/"]
