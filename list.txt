@@ -930,6 +930,7 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/FitGirlRepack"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/pcmasterrace"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/CyberLeekk"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/decomps"]
 www.youtube.com##ytd-rich-item-renderer:has-text(/\bGTA (VI|6)\b/i)
 # /spoilers
 
