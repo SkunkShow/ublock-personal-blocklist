@@ -923,6 +923,8 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/GTA"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/playstation"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/LivestreamFail"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/FitGirlRepack"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/pcmasterrace"]
 www.youtube.com##ytd-rich-item-renderer:has-text(/\bGTA (VI|6)\b/i)
 # /spoilers
 
@@ -931,7 +933,7 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PASTE_SUBREDDIT_HERE"]
-reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/FitGirlRepack"]
+
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/G2eSports"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PremierLeague"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/SoccerDaily"]
