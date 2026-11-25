@@ -929,6 +929,7 @@ reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/GTA"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/playstation"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/LivestreamFail"]
+reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/PS5_Jailbreak"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/FitGirlRepack"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/pcmasterrace"]
 reddit.com##shreddit-app:not([pagetype="community"]) shreddit-post[permalink^="/r/CyberLeekk"]
